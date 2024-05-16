@@ -1,31 +1,173 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
-<div class="bg-gradient-to-b from-pink-200 to-white">
-	<div>
-
-		<div class="Logo">
-			<img src="$lib/images/kuromi.png" alt="Homelogo">
-		</div>
+<script>
+	import img1 from '$lib/images/Hello.png'
+</script>
+<div>
+    <div class="bg-hewoo">
+		<main class="relative flex flex-col justify-center overflow-hidden">
+			<div class="w-full max-w-5xl mx-auto px-4 md:px-6 py-8">
+				<div class="w-full inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-200px),transparent_100%)]">
 	
-		<div class="Text Logo">
-		</div>
+					<ul class="flex items-center justify-center md:justify-start animate-infinite-scroll" aria-hidden="true">
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+						<li class="mx-8">
+							<img class="max-w-none " src={img1} alt="Celeb" />
+						</li>
+					</ul>          
+				</div>
+			</div>
+		</main>
 	
-		<div class="Nav menu pull out b">
-		</div>
-		
-	</div>
-<div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-5">
-		<h1 class="h1">Let's get cracking bones!</h1>
-		<p>Start by exploring:</p>
-		<ul>
-			<li><code class="code">/src/routes/+layout.svelte</code> - barebones layout</li>
-			<li><code class="code">/src/app.postcss</code> - app wide css</li>
-			<li>
-				<code class="code">/src/routes/+page.svelte</code> - this page, you can replace the contents
-			</li>
-		</ul>
-	</div>
+    </div>
 </div>
+<div class="bg-gradient-to-b from-Mainpink-500 to-Mainpink-50">
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
+	<h1>Filler</h1>
 </div>
 
 <!--SO faux code

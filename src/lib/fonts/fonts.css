@@ -1,0 +1,13 @@
+/* Import custom font */
+@font-face {
+  font-family: 'ghost';
+  src: url('$lib/fonts/ghost.woff2') format('woff2'), /* Modern Browsers */
+       url('$lib/fonts/ghost.woff') format('woff'); /* Older Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Use custom font in Tailwind CSS */
+.font-custom {
+  font-family: 'ghost', sans-serif;
+}
