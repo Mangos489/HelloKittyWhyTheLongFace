@@ -1,6 +1,6 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 <script>
-	import img1 from '$lib/images/Hello.png'
+	import img1 from '$lib/images/hello.png'
 </script>
 <div>
     <div class="bg-hewoo">
