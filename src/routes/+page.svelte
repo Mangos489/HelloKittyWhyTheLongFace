@@ -1,5 +1,18 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 <div class="bg-gradient-to-b from-pink-200 to-white">
+	<div>
+
+		<div class="Logo">
+			<img src="$lib/images/kuromi.png" alt="Homelogo">
+		</div>
+	
+		<div class="Text Logo">
+		</div>
+	
+		<div class="Nav menu pull out b">
+		</div>
+		
+	</div>
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-5">
 		<h1 class="h1">Let's get cracking bones!</h1>
