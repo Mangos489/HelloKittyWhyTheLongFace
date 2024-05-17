@@ -11,6 +11,8 @@
 	import '$lib/fonts/fonts.css'
 </script>
 <div>
+
+
     <div class="bg-hewoo">
 		<main class="relative flex flex-col justify-center overflow-hidden">
 			<div class="w-full max-w-5xl mx-auto px-4 md:px-6 py-8">
@@ -148,13 +150,17 @@
 			</div>
 		</main>
     </div>
+
+
 </div>
 
 <div class="bg-gradient-to-b from-Mainpink-500 to-Mainpink-50">
 
+
 	<div class="w-full max-w-5xl mx-auto pt-5">
 		<img class="max-w-auto" src={img2} alt="Celeb" />
 	</div>
+
 	
 	<div class="my-8 flex flex-row">
 
@@ -174,7 +180,9 @@
 			<p class="font-play text-xl sm:text-5xl sm:pb-4 sm:ml-12">Merchandise & Products</p>
 			<p class="font-play text-xs sm:text-3xl sm:pt-1 sm:ml-12 sm:text-left sm:w-9/12">We offer products such hello kitty plushies, decorated food items & luxury Hello Kitty Lambos.</p>
 		</div>
+
 	</div>
+
 
 	<div class="flex flex-row sm:mt-20">
 		<div class="mt-2 sm:mt-20 sm:pt-5 sm:ml-12">
@@ -221,8 +229,27 @@
 		</div>
 	</div>
 
-	<div>
-<!--Footer-->
+
+</div>
+
+<div class="bg-white flex flex-row">
+
+	<div class="pl-6">
+
+		<div class="pt-6">
+			<p class="text-xl">Contact Us:</p>
+			<p class="text-sm pt-1">666-666-6666</p>
+			<p class="text-sm pb-3">Hewo@gmail.com</p>
+		</div>
+		<div class="pt-3 pb-12">
+			<p class="text-xl">Find us at:</p>
+			<p class="text-sm">Mcdonalds address</p>
+		</div>
+
+	</div>
+
+	<div class="mt-9 pt-5 text-center">
+		<h1 class="px-12 text-lg">Important info you may want to disclose such as copyright and anything else. </h1>
 	</div>
 
 </div>
@@ -248,6 +275,9 @@ Component
 
 ----DONE!!!----
 
+Mobile UI
+
+----DONE!!!----
 
 Footer
 
