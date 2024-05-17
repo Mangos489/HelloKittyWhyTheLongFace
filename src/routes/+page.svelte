@@ -234,22 +234,22 @@
 
 <div class="bg-white flex flex-row">
 
-	<div class="pl-6">
+	<div class="pl-6 sm:pl-20">
 
-		<div class="pt-6">
-			<p class="text-xl">Contact Us:</p>
-			<p class="text-sm pt-1">666-666-6666</p>
-			<p class="text-sm pb-3">Hewo@gmail.com</p>
+		<div class="pt-6 sm:pt-20">
+			<p class="text-xl sm:text-4xl">Contact Us:</p>
+			<p class="text-sm sm:text-2xl sm:pt-2 pt-1">666-666-6666</p>
+			<p class="text-sm sm:text-2xl sm:pb-5 pb-3">Hewo@gmail.com</p>
 		</div>
 		<div class="pt-3 pb-12">
-			<p class="text-xl">Find us at:</p>
-			<p class="text-sm">Mcdonalds address</p>
+			<p class="text-xl sm:text-4xl">Find us at:</p>
+			<p class="text-sm sm:text-2xl">Mcdonalds address</p>
 		</div>
 
 	</div>
 
-	<div class="mt-9 pt-5 text-center">
-		<h1 class="px-12 text-lg">Important info you may want to disclose such as copyright and anything else. </h1>
+	<div class="mt-9 pt-5 sm:mt-36 text-center">
+		<h1 class="px-12 text-lg sm:text-4xl">Important info you may want to disclose such as copyright and anything else. </h1>
 	</div>
 
 </div>
