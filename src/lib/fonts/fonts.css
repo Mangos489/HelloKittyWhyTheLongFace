@@ -6,8 +6,20 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'play';
+  src: url('$lib/fonts/play.woff2') format('woff2'),
+       url('$lib/fonts/play.woff') format('woff2'),
+       url('$lib/fonts/play2.woff2') format('woff2'),
+       url('$lib/fonts/play2.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* Use custom font in Tailwind CSS */
 .font-custom {
   font-family: 'ghost', sans-serif;
+}
+.font-sitka{
+  font-family:'sitka', sans-serif;
 }

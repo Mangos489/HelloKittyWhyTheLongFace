@@ -1,6 +1,14 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 <script>
 	import img1 from '$lib/images/hello.png'
+	import img2 from '$lib/images/deco.png'
+	import img3 from '$lib/images/hellokitty.jpeg'
+	import img4 from '$lib/images/KuromiStanding.jpeg'
+	import img5 from '$lib/images/Limbo.png'
+	import img6 from '$lib/images/Phone.jpeg'
+	import img7 from '$lib/images/sanrio.jpg'
+	import img8 from '$lib/images/toki.jpg'
+	import '$lib/fonts/fonts.css'
 </script>
 <div>
     <div class="bg-hewoo">
@@ -139,35 +147,84 @@
 				</div>
 			</div>
 		</main>
-	
     </div>
 </div>
+
 <div class="bg-gradient-to-b from-Mainpink-500 to-Mainpink-50">
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
-	<h1>Filler</h1>
+
+	<div class="w-full max-w-5xl mx-auto pt-5">
+		<img class="max-w-auto" src={img2} alt="Celeb" />
+	</div>
+	
+	<div class="flex flex-row">
+
+		<div class="bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img3} alt="hewogatito" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Hello Kitty</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merch | Store Front</p>
+		</div>
+
+		<div class="bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img4} alt="kewlomi" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Kuromi</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Merch | Store Front</p>
+		</div>
+
+		<div class="sm:mt-24 sm:pt-5">
+			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-20">Merchandise & Products</p>
+			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-20 sm:text-left sm:w-9/12">We offer products such hello kitty plushies, decorated food items & luxury Hello Kitty Lambos.</p>
+		</div>
+	</div>
+
+	<div class="flex flex-row sm:mt-20">
+		<div class="sm:mt-20 sm:pt-5 sm:ml-12">
+			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-9">Xochi & Friends</p>
+			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-9 sm:text-left sm:w-9/12">
+			   Local owned business specializing in hello Kitty products. 
+			   Filler text, more hello kitty stuff lol. add some business 
+			   history or background.</p>
+		</div>
+
+        <div class="bg-white sm:mr-8 sm:mt-12 sm:ml-0 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img5} alt="forest" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">History</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Motivation | Family</p>
+        </div>
+        <div class="bg-white sm:mr-20 sm:mt-12 sm:ml-8 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img6} alt="gato" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Contact us</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Email | Phone Number</p>
+        </div>
+	</div>
+
+
+	<div class="flex flex-row sm:mt-20">
+
+		<div class="bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img7} alt="hewogatito" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Sanrio</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Vehicles</p>
+		</div>
+
+		<div class="bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
+			<img class="sm:max-w-auto " src={img8} alt="kewlomi" />
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Tokidoki</p>
+			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merchandise</p>
+		</div>
+
+		<div class="sm:mt-24 sm:pt-5">
+			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-20">Wholesale & Large Orders</p>
+			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-20 sm:text-left sm:w-9/12">We offer wholesale upon request.
+				We offer the following brands, 
+				Feel free to contact us for 
+				more information.</p>
+		</div>
+	</div>
+
+	<div>
+<!--Footer-->
+	</div>
+
 </div>
 
 <!--SO faux code
@@ -183,9 +240,14 @@ It should include a moving hello kitty pixel art going through it every so often
 
 So for the last sections we just want filler text tbh. -W-
 
+----DONE!!!----
+
 Component 
 
 Component 
+
+----DONE!!!----
+
 
 Footer
 

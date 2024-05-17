@@ -12,6 +12,7 @@ export default {
 		extend: {
 			fontFamily: {
 				custom: ['ghost', 'sans-serif'],
+				play: ['play', 'sans-serif'],
 			  },
 			animation: {
 				'infinite-scroll': 'infinite-scroll 225s linear infinite',
