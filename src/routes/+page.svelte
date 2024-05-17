@@ -177,20 +177,20 @@
 	</div>
 
 	<div class="flex flex-row sm:mt-20">
-		<div class="sm:mt-20 sm:pt-5 sm:ml-12">
+		<div class="mt-2 sm:mt-20 sm:pt-5 sm:ml-12">
 			<p class=" text-xl px-4 pt-4 pb-1 font-play sm:text-5xl sm:pb-4 sm:ml-9">Xochi & Friends</p>
-			<p class="text-xs px-4 pb-9 font-play sm:text-3xl sm:pt-1 sm:ml-9 sm:text-left sm:w-9/12">
+			<p class="text-xs px-4 font-play sm:text-3xl sm:pt-1 sm:ml-9 sm:text-left sm:w-9/12">
 			   Local owned business specializing in hello Kitty products. 
 			   Filler text, more hello kitty stuff lol. add some business 
 			   history or background.</p>
 		</div>
 
-        <div class="ml-2 mb-20 mr-2 w-11/12 bg-white sm:mr-8 sm:mt-12 sm:ml-0 shadow sm:text-left">
+        <div class="mt-8 ml-2 mb-20 mr-2 w-11/12 bg-white sm:mr-8 sm:mt-12 sm:ml-0 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img5} alt="forest" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">History</p>
 			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Motivation | Family</p>
         </div>
-        <div class="ml-5 mb-20 mr-5 w-11/12 bg-white sm:mr-20 sm:mt-12 sm:ml-8 shadow sm:text-left">
+        <div class="mt-8 ml-5 mb-20 mr-5 w-11/12 bg-white sm:mr-20 sm:mt-12 sm:ml-8 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img6} alt="gato" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Contact us</p>
 			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Email | Phone Number</p>
