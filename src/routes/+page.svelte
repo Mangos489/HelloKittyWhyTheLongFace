@@ -160,17 +160,17 @@
 
 		<div class="ml-5 mr-2 w-6/12 bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img3} alt="hewogatito" />
-			<p class="font-play text-sm sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Hello Kitty</p>
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Hello Kitty</p>
 			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merch | Store Front</p>
 		</div>
 
 		<div class="ml-2 w-6/12 bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img4} alt="kewlomi" />
-			<p class="font-play text-sm sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Kuromi</p>
+			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Kuromi</p>
 			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Merch | Store Front</p>
 		</div>
 
-		<div class="mt-6 ml-6 sm:mt-24 sm:pt-5">
+		<div class="mt-3 ml-6 sm:mt-24 sm:pt-5">
 			<p class="font-play text-xl sm:text-5xl sm:pb-4 sm:ml-12">Merchandise & Products</p>
 			<p class="font-play text-xs sm:text-3xl sm:pt-1 sm:ml-12 sm:text-left sm:w-9/12">We offer products such hello kitty plushies, decorated food items & luxury Hello Kitty Lambos.</p>
 		</div>
@@ -185,36 +185,36 @@
 			   history or background.</p>
 		</div>
 
-        <div class="bg-white sm:mr-8 sm:mt-12 sm:ml-0 shadow sm:text-left">
+        <div class="ml-2 mb-20 mr-2 w-11/12 bg-white sm:mr-8 sm:mt-12 sm:ml-0 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img5} alt="forest" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">History</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Motivation | Family</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Motivation | Family</p>
         </div>
-        <div class="bg-white sm:mr-20 sm:mt-12 sm:ml-8 shadow sm:text-left">
+        <div class="ml-5 mb-20 mr-5 w-11/12 bg-white sm:mr-20 sm:mt-12 sm:ml-8 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img6} alt="gato" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Contact us</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Email | Phone Number</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Email | Phone Number</p>
         </div>
 	</div>
 
 
 	<div class="flex flex-row sm:mt-20">
 
-		<div class="bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
-			<img class="sm:max-w-auto " src={img7} alt="hewogatito" />
+		<div class="ml-5 mb-20 mr-2 w-11/12 bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
+			<img class=" sm:max-w-auto " src={img7} alt="hewogatito" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Sanrio</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Vehicles</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Vehicles</p>
 		</div>
 
-		<div class="bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
+		<div class="ml-2 mb-20 w-11/12 bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img8} alt="kewlomi" />
 			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Tokidoki</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merchandise</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merchandise</p>
 		</div>
 
-		<div class="sm:mt-24 sm:pt-5">
-			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-20">Wholesale & Large Orders</p>
-			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-20 sm:text-left sm:w-9/12">We offer wholesale upon request.
+		<div class="mx-6 sm:mt-24 sm:pt-5">
+			<p class="font-play text-xl sm:text-5xl sm:pb-4 sm:ml-20">Wholesale & Large Orders</p>
+			<p class="font-play text-xs sm:text-3xl sm:pt-1 sm:ml-20 sm:text-left sm:w-9/12">We offer wholesale upon request.
 				We offer the following brands, 
 				Feel free to contact us for 
 				more information.</p>
