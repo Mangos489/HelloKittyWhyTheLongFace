@@ -156,30 +156,30 @@
 		<img class="max-w-auto" src={img2} alt="Celeb" />
 	</div>
 	
-	<div class="flex flex-row">
+	<div class="my-8 flex flex-row">
 
-		<div class="bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
+		<div class="ml-5 mr-2 w-6/12 bg-white sm:mr-8 sm:mt-12 sm:ml-12 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img3} alt="hewogatito" />
-			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Hello Kitty</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merch | Store Front</p>
+			<p class="font-play text-sm sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Hello Kitty</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Plushies | Merch | Store Front</p>
 		</div>
 
-		<div class="bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
+		<div class="ml-2 w-6/12 bg-white sm:mr-12 sm:mt-12 sm:ml-8 shadow sm:text-left">
 			<img class="sm:max-w-auto " src={img4} alt="kewlomi" />
-			<p class="font-play sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Kuromi</p>
-			<p class="font-play sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Merch | Store Front</p>
+			<p class="font-play text-sm sm:text-3xl sm:ml-4 sm:pt-5 sm:pb-0">Kuromi</p>
+			<p class="font-play text-xs sm:text-xl sm:ml-4 sm:pt-1 sm:pb-4">Clothing | Merch | Store Front</p>
 		</div>
 
-		<div class="sm:mt-24 sm:pt-5">
-			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-20">Merchandise & Products</p>
-			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-20 sm:text-left sm:w-9/12">We offer products such hello kitty plushies, decorated food items & luxury Hello Kitty Lambos.</p>
+		<div class="mt-6 ml-6 sm:mt-24 sm:pt-5">
+			<p class="font-play text-xl sm:text-5xl sm:pb-4 sm:ml-12">Merchandise & Products</p>
+			<p class="font-play text-xs sm:text-3xl sm:pt-1 sm:ml-12 sm:text-left sm:w-9/12">We offer products such hello kitty plushies, decorated food items & luxury Hello Kitty Lambos.</p>
 		</div>
 	</div>
 
 	<div class="flex flex-row sm:mt-20">
 		<div class="sm:mt-20 sm:pt-5 sm:ml-12">
-			<p class="font-play sm:text-5xl sm:pb-4 sm:ml-9">Xochi & Friends</p>
-			<p class="font-play sm:text-3xl sm:pt-1 sm:ml-9 sm:text-left sm:w-9/12">
+			<p class=" text-xl px-4 pt-4 pb-1 font-play sm:text-5xl sm:pb-4 sm:ml-9">Xochi & Friends</p>
+			<p class="text-xs px-4 pb-9 font-play sm:text-3xl sm:pt-1 sm:ml-9 sm:text-left sm:w-9/12">
 			   Local owned business specializing in hello Kitty products. 
 			   Filler text, more hello kitty stuff lol. add some business 
 			   history or background.</p>
