@@ -248,7 +248,7 @@
 
 	</div>
 
-	<div class="mt-9 pt-5 sm:mt-36 text-center">
+	<div class="mt-9 pt-5 sm:ml-36 sm:mr-36 sm:mt-36 text-center">
 		<h1 class="px-12 text-lg sm:text-4xl">Important info you may want to disclose such as copyright and anything else. </h1>
 	</div>
 
