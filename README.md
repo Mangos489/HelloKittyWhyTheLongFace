@@ -1,6 +1,8 @@
 # HelloKittyWhyTheLongFace
 Quick Draft website for a customer 
--Took 1 hr to design on figma
+
+-Took 1 hr to design on Figma
+
 -5 hrs to develop the draft. 
 
 The draft has been optimized for mobile screens
